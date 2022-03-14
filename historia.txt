@@ -1,5 +1,5 @@
-Alfonso Zapata esta aprendiendo con Freddy Vega en el curso llamado:
-Introduccion a git y github.
-Y estamos poco a poco modificando este archivo.
+alfonso esta aprendiendo con freddy vega en el curso llamado:
+intriduccion a git y github
 
-Hoy hablaremos de su vida y aventuras.
+
+Mañana nos enfocaremos en terminar este curso.
