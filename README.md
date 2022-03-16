@@ -7,4 +7,5 @@ En este curso vi de todo:
 1.  Bueans practicas a la hora de copiar los repositorios
 2.  Como crear llaves ssh
 3.  flujo de trabajo con github
-4. A no mostrar el correo en un curso online
+4.  A no mostrar el correo en un curso online
+5.  Creado por mi
