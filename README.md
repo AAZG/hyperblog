@@ -1,6 +1,7 @@
 # hyperblog
 Un blog increible
 >*El Curso En El Que Realice Este Mini Proyecto Me Permitio Aprender A Manejar Repositorios De Github, A Manejar Mmi Propio Repositorio Con Git, Y No Menos Importante Me Permitira Realizar El Curso De Gitlab.
+>"Yo"
 
 En este curso vi de todo:
 1.  Bueans practicas a la hora de copiar los repositorios
